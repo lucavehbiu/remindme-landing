@@ -7,7 +7,7 @@ export default function Privacy() {
 
         <h2>Overview</h2>
         <p>
-          Remind Me ("we", "our", or "us") is committed to protecting your privacy.
+          Remind Me (&ldquo;we&rdquo;, &ldquo;our&rdquo;, or &ldquo;us&rdquo;) is committed to protecting your privacy.
           This Privacy Policy explains how we collect, use, and safeguard your information
           when you use our Chrome extension.
         </p>
@@ -30,14 +30,14 @@ export default function Privacy() {
         <ul>
           <li>To create and manage your reminders</li>
           <li>To send reminder notifications</li>
-          <li>To improve the extension's functionality</li>
+          <li>To improve the extension&apos;s functionality</li>
         </ul>
 
         <h2>Third-Party Services</h2>
         <p>
           We use Resend.com for email notifications. Their privacy policy can be found at{" "}
           <a href="https://resend.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">
-            Resend's Privacy Policy
+            Resend&apos;s Privacy Policy
           </a>
           .
         </p>

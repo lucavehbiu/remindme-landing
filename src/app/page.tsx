@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -12,12 +12,12 @@ export default function Home() {
           Save anything interesting you find online and get reminded when it matters.
         </p>
         <div className="mt-10 flex items-center justify-center gap-x-6">
-          <a
+          <Link
             href="https://chrome.google.com/webstore/detail/your-extension-id"
             className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
           >
             Add to Chrome
-          </a>
+          </Link>
         </div>
       </div>
 
